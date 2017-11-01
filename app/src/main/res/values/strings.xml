@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P2P</string>
+    <string name="connect">connect</string>
+    <string name="send">send</string>
+    <string name="discover">discover</string>
+    <string name="register">register</string>
+</resources>
